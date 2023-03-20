@@ -7,5 +7,5 @@
 ### Acesse no link abaixo :
 
 <p align="center">
-https://leonardocapristo.github.io/Projeto_Portfolio/
+https://leonardocapristo.github.io/Projeto_PortalDeNoticias/
 </p>

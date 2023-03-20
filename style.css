@@ -36,6 +36,7 @@ h1,h2{
 
     font-size: 56px;
     line-height: 64px;
+
 }
 
 .subtitle{
@@ -77,4 +78,24 @@ p{
 .cta{
     font-size: 20px;
     margin: 30px 0px;
+}
+
+figure{
+    padding: 0;
+    margin: 40px 0;
+    font-size: 12px;
+
+}
+
+figure>img{
+    width: 100%;
+}
+
+#teste{
+    text-transform: lowercase;
+}
+
+.footer{
+    background-color: #333;
+    height: 100px;
 }

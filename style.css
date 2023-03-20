@@ -59,5 +59,22 @@ h1,h2{
 
 a{
     text-decoration: none;
+    color: orange;
+    font-weight: 700;
 }
 
+.content{
+    max-width: 648px;
+    margin: auto;
+}
+
+p{
+    font-size: 20px;
+    line-height: 28px;
+    
+}
+
+.cta{
+    font-size: 20px;
+    margin: 30px 0px;
+}

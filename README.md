@@ -1,4 +1,4 @@
-# Projeto Portfolio
+# Projeto Portal de Notícias
 
 <div align="center">
 <img height="480" src=""/>
